@@ -5180,7 +5180,7 @@ msgstr "Temps d'Impression"
 
 #: src/gui/print_time_module.hpp:27
 msgid "Print will end"
-msgstr "Fin prévue à"
+msgstr "Fin prévue"
 
 #: tmp_error_headers/error_list_xl.hpp:44
 #, c-format
@@ -5533,7 +5533,7 @@ msgstr "Rétablir les valeurs par défaut"
 
 #: src/gui/ScreenPrintingModel.cpp:20
 msgid "Resume"
-msgstr "Relancer"
+msgstr "Reprendre"
 
 #: src/common/client_response_texts.hpp:101
 msgid "RESUME"
@@ -5541,7 +5541,7 @@ msgstr "REPRENDRE"
 
 #: src/gui/ScreenPrintingModel.cpp:21
 msgid "Resuming..."
-msgstr "Relance..."
+msgstr "Reprise..."
 
 #. //MSG_PROGRESS_EJECT_FILAMENT c=20
 #: src/mmu2/mmu2_progress_converter.cpp:30
@@ -7237,7 +7237,7 @@ msgstr "DÉCHARGER MANUELLEMENT"
 
 #: src/gui/dialogs/DialogLoadUnload.cpp:51
 msgid "Unparking"
-msgstr "Unparking"
+msgstr "Déstationnement"
 
 #: tmp_error_headers/error_list_mini.hpp:379
 #: tmp_error_headers/error_list_xl.hpp:652
@@ -7265,7 +7265,7 @@ msgstr "MODÈLE D'IMPRIMANTE NON SUPPORTÉ"
 
 #: src/gui/dialogs/DialogMoveZ.hpp:25
 msgid "UP"
-msgstr "UP"
+msgstr "Haut"
 
 #: tmp_error_headers/error_list_mini.hpp:127
 #: tmp_error_headers/error_list_xl.hpp:232
